@@ -6,5 +6,12 @@
 "logFilename": "logs/server.log",
 "logMaxSize": 10,
 "logMaxBackups": 10,
-"logMaxAge": 30
+"logMaxAge": 30,
+
+"db_addrs_warnacrm": "ISI IP",
+"db_addrs_warnacrm_public": "ISI IP", 
+"db_port_warnacrm": "PORT DB",
+"db_name_warnacrm": "NAMA DB",
+"db_username_warnacrm": "USER DB",
+"db_password_warnacrm": "PASS USER DBSD"
 }

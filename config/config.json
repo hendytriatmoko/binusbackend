@@ -6,5 +6,12 @@
 "logFilename": "logs/server.log",
 "logMaxSize": 10,
 "logMaxBackups": 10,
-"logMaxAge": 30
+"logMaxAge": 30,
+
+"db_addrs_warnacrm": "165.232.169.243",
+"db_addrs_warnacrm_public": "165.232.169.243",
+"db_port_warnacrm": "5432",
+"db_name_warnacrm": "binus",
+"db_username_warnacrm": "postgres",
+"db_password_warnacrm": "35536298"
 }
